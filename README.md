@@ -14,7 +14,7 @@ A powerful and easy-to-use To-Do application built with React and Redux. This ap
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/react-redux-todo-app.git
+   git clone https://github.com/Abdur-Rehman-643/React-Redux-To-Do-App.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -64,8 +64,3 @@ This project is licensed under the MIT License.
 ---
 
 Built with 💙 using React and Redux.
-
-```
-
-This `README.md` includes all the necessary sections and shows how to display screenshots of the app in different states. Make sure to replace the GitHub URL with your actual repository link.
-```
